@@ -33,7 +33,7 @@ It helps technical artists and developers visualize and sort models based on opt
 
 ## 🖥️ How to Use
 
-- Open the tool via `Tools > Model Audit`.
+- Open the tool via `Julien Noe > Model Audit`.
 - Click **"Scan All Prefabs"** to generate results.
 - Use column toggles and sorting to organize data.
 - Click on a prefab name to ping it in the Project panel.
