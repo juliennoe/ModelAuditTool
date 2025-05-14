@@ -38,7 +38,7 @@ namespace JulienNoe.Tools.TextureAuditTool
         // Search string
         private string searchString = string.Empty;
 
-        [MenuItem("Tools/Texture Audit")]
+        [MenuItem("Julien Noe/Texture Audit")]
         public static void ShowWindow() => GetWindow<TextureAuditTool>("Texture Audit");
 
         private void OnGUI()
